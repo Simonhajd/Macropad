@@ -2,6 +2,8 @@ the LRP:
 Mice are clunky for photo editing - you have to look at the cursor to edit photos, while trying to look at the changes on the photo at the same time!
 Introducing: LRP: an Adobe Lightroom tool to remove the mouse from photo editing.
 
+features a key to move to the next editing option, and a potentiometer to physically change the image settings on-screen
+
 CAD Model:
 ![image](https://github.com/user-attachments/assets/c36ba826-0915-452e-97f9-2f79772cbc7b)
 

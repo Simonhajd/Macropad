@@ -19,18 +19,28 @@ Case Design:
 ![image](https://github.com/user-attachments/assets/8f15f3f9-8d9f-4546-8b23-c95225c7cb7c)
 
 Cool knob i made for the rotary encoder:
+
 ![image](https://github.com/user-attachments/assets/d5bb6e41-6153-45a3-b23e-0b9a322eb24b)
 
 
 
 BOM:
+
 1x Cherry MX Switches
+
 1x DSA Keycaps
 
 1x SK6812 MINI-E LEDs
+
 1x 0.91" 128x32 OLED Display
+
 1x EC11 Rotary Encoder
+
 1x XIAO RP2040
-1x Case (2 printed parts)
+
+1x Case (3 printed parts) 
+
 4x M3x16mm screws
+
 4x M3x5mx4mm heatset inserts
+
